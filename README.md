@@ -8,7 +8,7 @@ I focus on building data-driven user experiences and interactive web services.
 ### 👤 About Me
 - 🎓 **Soongsil University** — Global Media (Class of 2024)
 - 🏢 **SUMMIT-Band-Dev** — Founder & Frontend Lead
-- 🏸 **Superbad** — Executive Member (Badminton Club)
+- 🏸 **SSUperbad** — President (Badminton Club)
 - 🎹 **Musician** — 17 years of Piano, Guitarist & Synthesist
 
 ### 🛠️ Tech Stacks
@@ -31,12 +31,11 @@ I focus on building data-driven user experiences and interactive web services.
 ### 📚 Studying
 - [ ] **Next.js** for better SEO & performance
 - [ ] **AI-Driven Development** (Cursor, Claude)
-- [ ] **SQLD** certification for data analysis
 
 ### 📈 Projects & Activities
-- **SUMMIT** : Band community management service (Lead)
+- **SUMMIT** : Band community management service (Lead & Dev)
 - **A:SSU** : Student council benefit platform (PM & Dev)
-- **Pick-Habju** : Rehearsal room reservation service (Marketing & PM)
+- **Pick-Habju** : Rehearsal room reservation service (Marketing)
 
 ---
 📫 **Contact** : [legoherohty@gmail.com]
