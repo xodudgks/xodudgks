@@ -3,6 +3,8 @@
 Hi, I'm **Tae-young Han**, a passionate frontend developer and musician based in Seoul, Korea. 
 I focus on building data-driven user experiences and interactive web services.
 
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xodudgks&show_icons=true&theme=tokyonight&locale=ko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 👤 About Me
@@ -28,7 +30,6 @@ I focus on building data-driven user experiences and interactive web services.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white"/>
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xodudgks&show_icons=true&theme=tokyonight&locale=ko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Studying
 - [ ] **Next.js** for better SEO & performance
