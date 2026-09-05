@@ -1,13 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:bf91f3&height=200&section=header&text=Product%20Engineer:%20Han%20Tae-young&fontSize=40&fontColor=70a5fd&fontAlignY=35&animation=fadeIn)
 
-Hi, I'm **Tae-young Han**, a passionate frontend developer and musician based in Seoul, Korea.
-I focus on building data-driven user experiences and interactive web services.
+<div align="center">
+
+**SSU GM 24**
+숭실대학교 글로벌미디어학부 24학번
+
+[![Email](https://img.shields.io/badge/Email-taeyoung.han.kr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taeyoung.han.kr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-xodudgks-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xodudgks)
+
+</div>
 
 [![GitHub Stats](https://github-readme-stats-chi-one-57.vercel.app/api?username=xodudgks&show_icons=true&theme=tokyonight&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎓 Education
-
-- **Soongsil University** — Global Media, IT College (Class of 2024)
 
 ## 📚 Tech Stack
 
