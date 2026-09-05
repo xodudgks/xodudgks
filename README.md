@@ -3,7 +3,7 @@
 Hi, I'm **Tae-young Han**, a passionate frontend developer and musician based in Seoul, Korea. 
 I focus on building data-driven user experiences and interactive web services.
 
-[![GitHub Stats](github-readme-stats-chi-one-57.vercel.app)
+[![GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
