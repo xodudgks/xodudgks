@@ -17,7 +17,8 @@
 
 <br/>
 
-**Frontend** <br/>
+**Frontend** 
+<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -28,7 +29,8 @@
 
 <br/>
 
-**Backend & Infra** <br/>
+**Backend & Infra** 
+<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -37,7 +39,8 @@
 
 <br/>
 
-**Tools** <br/>
+**Tools** 
+<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -47,6 +50,7 @@
 
 ## 🏛️ Activities
 <br/>
+
 | 소속 | 직책 | 기간 |
 |---|---|---|
 | 숭실대학교 IT대학 학생회 | 기획국원 (17대 Commit) | 2024.03 ~ 2024.12 |
@@ -59,6 +63,7 @@
 
 ## 🫂 Projects
 <br/>
+
 | 프로젝트 | 역할 | 기간 | 설명 |
 |---|---|---|---|
 | A:SSU | PM | 2026.02 ~ 진행중 | 학생·업체·학생회를 연결하는 대학생 제휴 관리 플랫폼 |
@@ -70,6 +75,7 @@
 
 ## 🏆 Awards & Honors
 <br/>
+
 | 프로젝트 | 수상 내역 | 날짜 |
 |---|---|---|
 | A:SSU | 숭실대학교 컴퓨터학부 소프트웨어공모전 총장상 | 2026.08 |
