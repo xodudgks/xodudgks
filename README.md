@@ -3,8 +3,6 @@
 [![GitHub Stats](https://github-readme-stats-chi-one-57.vercel.app/api?username=xodudgks&show_icons=true&theme=tokyonight&v=2)](https://github.com/anuraghazra/github-readme-stats)
 --- 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:bf91f3&height=200&section=header&text=Product%20Engineer:%20Han%20Tae-young&fontSize=40&fontColor=70a5fd&fontAlignY=35&animation=fadeIn)
-
 ## 🎓 Education
 - **Soongsil University** — Global Media, IT College (Class of 2024)
 
