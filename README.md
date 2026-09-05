@@ -3,14 +3,19 @@
 <div align="center">
 
 **SSU GM 24**
+<br/>
 숭실대학교 글로벌미디어학부 24학번
 
-[![Email](https://img.shields.io/badge/Email-taeyoung.han.kr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taeyoung.han.kr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-xodudgks-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xodudgks)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taeyoung.han.kr@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xodudgks)
 
 </div>
 
+<br/>
+
 [![GitHub Stats](https://github-readme-stats-chi-one-57.vercel.app/api?username=xodudgks&show_icons=true&theme=tokyonight&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 ## 📚 Tech Stack
 
@@ -39,6 +44,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
 
+<br/>
+
 ## 🏛️ Activities
 
 | 소속 | 직책 | 기간 |
@@ -49,6 +56,8 @@
 | 숭실대학교 IT대학 X AI대학 소모임 SUMMIT | 부회장 | 2026.01 ~ 진행중 |
 | 숭실대학교 교내 컴퓨터 동아리 SSCC 44기 | 회원 | 2026.03 ~ 진행중 |
 
+<br/>
+
 ## 🫂 Projects
 
 | 프로젝트 | 역할 | 기간 | 설명 |
@@ -57,6 +66,8 @@
 | Chwihap | Front-end | 2026.06 ~ 진행중 | 올인원 취업 준비 관리 서비스 |
 | Summit Concert Web | Full-Stack | 2026.04 ~ 진행중 | 써밋 정기공연 통합 웹서비스 |
 | Pickhabju | 마케팅 | 2025.08 ~ 2026.06 | 합주실 통합 검색 서비스 |
+
+<br/>
 
 ## 🏆 Awards & Honors
 
