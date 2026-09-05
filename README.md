@@ -5,7 +5,7 @@ I focus on building data-driven user experiences and interactive web services.
 
 [![GitHub Stats](https://github-readme-stats-chi-one-57.vercel.app/api?username=xodudgks&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
+--- 
 
 ### 👤 About Me
 - 🎓 **Soongsil University** — Global Media (Class of 2024)
